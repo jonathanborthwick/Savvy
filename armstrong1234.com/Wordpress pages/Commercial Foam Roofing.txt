@@ -1,0 +1,40 @@
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/2"][vc_empty_space height="55px"][vc_column_text]
+<h1 style="padding-left: 30px;">COMMERCIAL ROOFING</h1>
+[/vc_column_text][vc_empty_space height="20px"][/vc_column][vc_column width="1/2"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="185" img_size="130x130" onclick="custom_link" qode_css_animation="" link="http://armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="992" img_size="medium" onclick="custom_link" qode_css_animation="" link="http://www.armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-12"][qode_carousel carousel="promos"][/vc_column_inner][/vc_row_inner][vc_empty_space height="20px"][vc_empty_space height="20px"][/vc_column][vc_column][vc_single_image image="917" img_size="full" alignment="center" qode_css_animation=""][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/2"][vc_column_text]
+<h2>DO YOU OWN A COMMERCIAL BUILDING?</h2>
+[/vc_column_text][vc_column_text el_class="armstrongParagraph"]Armstrong Foam Roofs are perfect for commercial buildings in the Bay Area with flat or low-sloped roofs. We specialize in bringing the detail required for <a href="http://www.armstrong1234.com/residential-foam-roofing/">residential work</a> to all sizes of commercial buildings.  Our thousands of satisfied customers in the Bay Area, including San Francisco, Oakland, San Rafael, Alameda, Palo Alto, Berkeley, South San Francisco, Daly City, Burlingame, San Jose, El Cerrito, Concord, Walnut Creek and Danville, have never regretted having Armstrong Roofing replace their original roofing material with our affordable and long-lasting <a href="http://www.armstrong1234.com/foam-roofing/">SPF Roofing system</a>.  If you’ve had drainage problems, water seepage and cracked roofs in the past, let Armstrong show you how our Foam Roofing can protect your property and your investment – while saving you money!
+
+&nbsp;
+
+[action_box][/vc_column_text][/vc_column][vc_column width="1/2"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner][vc_column_text el_class="armstrongParagraph"]
+<div class="pg-300-bold title-text-color title-text">
+<h2>PREVIOUS COMMERCIAL FOAM ROOFING JOBS IN THE BAY AREA</h2>
+</div>
+<div class="scala body-text">
+
+Additional Armstrong Commercial Foam Roofing Completed Projects:
+<ul>
+	<li>1st Baptist Church Walnut Creek</li>
+	<li>Marina Pet Hospital San Francisco</li>
+	<li>Comcast Fremont</li>
+	<li>Missionaries of the Precious Blood Berkeley</li>
+	<li>Capitol Square San Jose</li>
+	<li>Nichiren Buddhist Temple San Jose</li>
+	<li>Roy Aero Airport Palo Alto</li>
+	<li>Pelica Management Corp South San Francisco</li>
+	<li>Comcast Richmond</li>
+	<li>Richlen Construction Pacheco</li>
+	<li>Inn Marin Novato</li>
+	<li>Regency Associates Los Altos</li>
+	<li>Coconut Grove Restaurant &amp; Lounge Vallejo</li>
+	<li>Twin Chapel Mortuary Vallejo</li>
+	<li>Los Gatos Dog &amp; Cat Hospital Los Gatos</li>
+	<li>Swiss Hotel Sonoma</li>
+	<li>Seaward Photo San Anselmo</li>
+	<li>SM &amp; B Associates Los Gatos</li>
+	<li>Ringseis Designs Fairfax</li>
+	<li>Sycamore Creek Vineyard &amp; Winery Morgan Hill</li>
+	<li>BP/Arco Richmond</li>
+</ul>
+</div>
+.[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_empty_space height="20px"][/vc_column][vc_column][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][/vc_column][/vc_row]

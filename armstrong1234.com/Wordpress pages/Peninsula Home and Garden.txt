@@ -1,0 +1,27 @@
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_column_text]
+<h1 class="dark-grey scala title-text" style="text-align: center;">Peninsula Home and Garden</h1>
+<div class="scala body-text">
+<h1 style="text-align: center;">Elements for a Green Lifestyle
+Wednesday, February 21, 2007</h1>
+</div>
+[/vc_column_text][vc_column_text]
+<div class="dark-grey scala title-text">
+<div class="dark-grey scala title-text">Peninsula Home and Garden</div>
+<div class="scala body-text">
+
+Elements for a Green Lifestyle
+Wednesday, February 21, 2007
+
+Here at the Peninsula Home &amp; Garden Show, our vendors are contributing to the environment in a variety of ways, from introducing eco friendly options in their product lines to completely greening their corporate headquarters.
+
+<strong>Armstrong Painting, Roofing, and Windows</strong>
+
+Temescal Creek Interior Paints &amp; Stains
+
+At the corporate headquarters of Armstrong Painting, Roofing, and Windows, the 40 species of shrub, tree, and flower surrounding the building are more than just a pretty view. These plants form the foundation for a new, all-natural brand of Temescal Creek interior paints and stains. These new finishes are the first to be exclusively created by the company and made without any of the toxic compounds commonly found in other brands of house paint. Colors come from natural hues found in nature; leaves of an arroyo willow produce a yellow tint, while the tall, segmented stalks of the horsetail reed produce green.
+
+The paint isn’t the only thing that’s eco-friendly at Armstrong Painting, Roofing, and Windows. Armstrong’s corporate offices, which were recently relocated to Emeryville after nearly 40 years in San Francisco, also sport solar panels, high-efficiency fluorescent lighting, original concrete flooring, and area rugs made from recycled wool carpets.
+
+</div>
+</div>
+[/vc_column_text][vc_empty_space height="20px"][/vc_column][/vc_row]

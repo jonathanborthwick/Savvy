@@ -1,0 +1,37 @@
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/2"][vc_empty_space height="55px"][vc_column_text]
+<h1 style="padding-left: 30px;"><span style="color: #79aac8;">THE ARMSTRONG WINDOW AND DOOR PROCESS</span></h1>
+[/vc_column_text][vc_empty_space height="40px"][/vc_column][vc_column width="1/2"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="185" img_size="130x130" onclick="custom_link" qode_css_animation="" link="http://armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="992" img_size="medium" onclick="custom_link" qode_css_animation="" link="http://www.armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-12"][qode_carousel carousel="promos"][/vc_column_inner][/vc_row_inner][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_single_image image="928" img_size="full" alignment="center" qode_css_animation=""][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/2"][vc_empty_space height="20px"][vc_column_text el_class="armstrongParagraph"]
+<div class="pg-300-bold title-text-color title-text">
+<h2>THE ARMSTRONG WINDOW PROCESS</h2>
+</div>
+<div class="scala body-text">
+
+There are many ways to install a window. Armstrong only installs windows custom made to order and to the exact specifications of the leading <a href="http://www.armstrong1234.com/vinyl-windows/">window manufacturers</a>.
+
+</div>
+[/vc_column_text][vc_accordion active_tab="false" collapsible="yes" style="accordion"][vc_accordion_tab title="1. Preparation"][vc_column_text]Obtain all necessary permits. Homeowner to reimburse Armstrong for cost of permit.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="2. Inspect area"][vc_column_text]Area is inspected to determine that all furniture and special items are out of the way.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="3. Re-measure"][vc_column_text]
+<div class="scala body-text ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active">
+
+Re-measure all openings to provide a custom fit.
+
+</div>
+<h3 class="scala body-text ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" tabindex="-1"></h3>
+[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="4. Remove existing windows"][vc_column_text]Prepare opening for new windows.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="5. Install new windows"][vc_column_text]Options include<a href="http://www.armstrong1234.com/vinyl-windows/"> vinyl</a>, wood and fiberglass.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="6. Remove existing wood stops"][vc_column_text]Replace as needed, plumb, square and shim new windows.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="7. Pack perimeter of openings"][vc_column_text]Pack with caulking and material as needed.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="8. Start enjoying your new windows!"][/vc_accordion_tab][/vc_accordion][vc_empty_space height="20px"][/vc_column][vc_column width="1/2"][vc_empty_space height="20px"][vc_column_text el_class="armstrongParagraph"]
+<div class="pg-300-bold title-text-color title-text">
+<div class="pg-300-bold title-text-color title-text">
+<h2>THE ARMSTRONG ENTRY DOOR PROCESS</h2>
+</div>
+<div class="scala body-text">
+
+Armstrong provides the highest quality <a href="http://www.armstrong1234.com/doors/">entry door systems</a>. For more information about size and style options, please contact Armstrong at 777-1234.
+
+</div>
+</div>
+[/vc_column_text][vc_empty_space height="20px"][vc_accordion active_tab="false" collapsible="yes" style="accordion"][vc_accordion_tab title="1. Preparation"][vc_column_text]Obtain all necessary permits. Homeowner to reimburse Armstrong for cost of permit.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="2. Inspect area"][vc_column_text]Area is inspected to determine that all furniture and special items are out of the way.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="3. Re-measure"][vc_column_text]
+<div class="scala body-text ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active">
+
+Re-measure all openings to provide a custom fit.
+
+</div>
+<h3 class="scala body-text ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" tabindex="-1"></h3>
+[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="4. Remove existing doors"][vc_column_text]Prepare opening for new windows.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="5. Install new doors"][vc_column_text]Options include vinyl, wood and fiberglass.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="6. Final adjustments and completion"][vc_column_text]You can now start enjoying your new AWS certified entry door system![/vc_column_text][/vc_accordion_tab][/vc_accordion][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_column_text][action_box][/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space][/vc_column][/vc_row]

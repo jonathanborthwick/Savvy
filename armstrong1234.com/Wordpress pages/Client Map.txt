@@ -1,0 +1,7 @@
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_column_text]
+<h2 style="text-align: center;">Our Service Area and Project Map</h2>
+<p style="text-align: center;">This map shows the area we service, and many of our recent projects.</p>
+<p style="text-align: center;">Please note this is a small selection of over <strong>30,000</strong> satisfied Armstrong clients.</p>
+<p style="text-align: center;">[action_box]</p>
+<p style="text-align: center;">Zoom in and click any of the points on the map for more details. Click through to the <a href="http://www.armstrong1234.com/contact/">contact page</a> for a your free estimate today.</p>
+[/vc_column_text][vc_empty_space height="25px"][vc_column_text]<iframe style="width: 100%; height: 910px;" src="http://erichsen-group.com/demoland/MapLab/BayAreaContractors/" width="300" height="150" frameborder="0"></iframe>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][/vc_column][/vc_row]

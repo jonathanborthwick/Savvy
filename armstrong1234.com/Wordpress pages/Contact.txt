@@ -1,0 +1,87 @@
+<strong>[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation="" css=".vc_custom_1452809868065{background-color: #ffb33f !important;}"][vc_column width="1/4"][/vc_column][vc_column width="1/2"][vc_column_text]
+
+<h2 style="color:#ffffff !important;">Say Hello. Ask a Question. Get a Free Estimate!</h2>
+
+<div class="ss-form">
+[raw]
+<script type="text/javascript">var submitted=false;</script>
+
+<script type="text/javascript">
+	function validateform() {
+		var response = grecaptcha.getResponse();
+
+			if (document.getElementById('entry_2066632521').value == '') {
+				alert('Please enter your Name');
+				submitted = false;
+			} else if (document.getElementById('entry_461400582').value == '') {
+				alert('Please enter your Email');
+				submitted = false;
+			} else if (document.getElementById('entry_869028405').value == '') {
+				alert('Please enter your Phone Number');
+				submitted = false;
+			} else if (document.getElementById('entry_520155001').value == '') {
+				alert('Please enter your Message');
+				submitted = false;
+			} else if (response.length == 0) {
+   				// NOT VERIFIED
+				submitted = false;
+				alert('Please check the verification box in the form');		
+
+			} else {
+				submitted = true;
+                                document.getElementById('ss-submit').disabled = true;
+			}
+
+		return submitted;
+	}
+</script>
+[/raw]
+<iframe name="hidden_iframe" id="hidden_iframe"
+style="display:none;" onload="if(submitted)
+{window.location='http://www.armstrong1234.com/thank-you/';}"></iframe></p>
+<form action="https://docs.google.com/a/savvyk.com/forms/d/1eFpNmtf8XEtYwqy1Z9-KCNkbX97eRz3MRXkV1A49blM/formResponse" method="post"
+target="hidden_iframe" onsubmit="return validateform();" style="">
+
+<ol role="list" class="ss-question-list" style="padding-left: 0;">
+<div class="ss-form-question errorbox-good" role="listitem">
+<div dir="auto" class="ss-item  ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_2066632521"><div class="ss-q-title">Name</div><div class="ss-q-help ss-secondary-text" dir="auto"></div></label><input type="text" name="entry.2066632521" value="" class="ss-q-short" id="entry_2066632521" dir="auto" aria-label="Name  " title="">
+<div class="error-message" id="1110735197_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="auto" class="ss-item  ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_869028405"><div class="ss-q-title">Phone Number</div><div class="ss-q-help ss-secondary-text" dir="auto"></div></label><input type="text" name="entry.869028405" value="" class="ss-q-short" id="entry_869028405" dir="auto" aria-label="Phone Number  " title="">
+<div class="error-message" id="441733029_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div> 
+
+<div class="ss-form-question errorbox-good" role="listitem">
+<div dir="auto" class="ss-item  ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_461400582"><div class="ss-q-title">Email Address</div><div class="ss-q-help ss-secondary-text" dir="auto"></div></label><input type="text" name="entry.461400582" value="" class="ss-q-short" id="entry_461400582" dir="auto" aria-label="Email Address  " title="">
+<div class="error-message" id="106927276_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div>
+
+
+<div class="ss-form-question errorbox-good" role="listitem">
+<div dir="auto" class="ss-item  ss-paragraph-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_520155001"><div class="ss-q-title">Your Message</div><div class="ss-q-help ss-secondary-text" dir="auto"></div></label><textarea name="entry.520155001" rows="8" cols="0" class="ss-q-long" id="entry_520155001" dir="auto" aria-label="Your Message  "></textarea>
+<div class="error-message" id="343621050_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="auto" class="ss-item  ss-select"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1837337730"><div class="ss-q-title">How did you hear about us?
+</div><div class="ss-q-help ss-secondary-text" dir="auto"></div></label><select name="entry.1837337730" id="entry_1837337730" aria-label="How did you hear about us?  "><option value=""></option>
+<option value="KCBS">KCBS</option> <option value="KGO">KGO</option>  <option value="Other Radio">Other Radio</option> <option value="Eichler Network">Eichler Network</option> <option value="Internet General Search">Internet General Search</option> <option value="Yelp">Yelp</option> <option value="Pandora">Pandora</option> <option value="Bay Area Living (TV)">Bay Area Living (TV)</option> <option value="Referral Friend">Referral Friend</option> <option value="Previous Customer">Previous Customer</option> <option value="Job Sign">Job Sign</option> <option value="Other">Other</option></select>
+<div class="required-message">This is a required question</div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="auto" class="ss-item  ss-select"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_2133707382"><div class="ss-q-title">Nature of Inquiry</div><div class="ss-q-help ss-secondary-text" dir="auto"></div></label><select name="entry.2133707382" id="entry_2133707382" aria-label="Nature of Inquiry  "><option value=""></option>
+<option value="Requesting Estimate">Requesting Estimate</option> <option value="General Contact">General Contact</option> <option value="Comment or Concern">Comment or Concern</option> <option value="Question">Question</option></select>
+<div class="required-message">This is a required question</div></div></div></div><input type="hidden" name="draftResponse" value="[,,&quot;-3611018126299024252&quot;]
+"><input type="hidden" name="pageHistory" value="0"><input type="hidden" name="fbzx" value="-3611018126299024252">
+
+<div class="g-recaptcha" data-sitekey="6Lf5bCITAAAAANEBdxq2ECinfIyop5n6qKKw1TNj"></div>
+
+<div class="ss-item ss-navigate" style="width:250px;margin:0px 0px 10px 0px;padding:0px;"><input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action " style="width:250px;margin:0px;padding:0px;"></div></ol></form></div>
+
+[/vc_column_text][/vc_column][vc_column width="1/4"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][/vc_column][/vc_row]

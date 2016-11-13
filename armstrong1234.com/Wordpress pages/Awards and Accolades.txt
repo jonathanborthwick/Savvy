@@ -1,0 +1,25 @@
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/2"][vc_empty_space height="40px"][vc_column_text]
+<h1>ARMSTRONG AWARDS!</h1>
+[/vc_column_text][vc_column_text]We’re extremely proud of the many awards and accolades we’ve received during our 50+ years of work. This type of recognition makes us even more confident that we can help you with your needs, no matter how big or small. Here are some of the kudos we’ve gotten for our award-winning work:
+
+[action_box][/vc_column_text][vc_empty_space height="20px"][/vc_column][vc_column width="1/2"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="185" img_size="130x130" onclick="custom_link" qode_css_animation="" link="http://armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="188" img_size="medium" qode_css_animation=""][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-12"][qode_carousel carousel="promos"][/vc_column_inner][/vc_row_inner][vc_empty_space height="30px"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/4"][vc_single_image image="548" img_size="medium" qode_css_animation=""][vc_column_text]
+<p class="dark-grey scala title-text" style="text-align: center;">ANG Best Painting Contractor</p>
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image image="551" img_size="medium" qode_css_animation=""][vc_column_text]
+<div class="dark-grey scala title-text">Best Roofer San Francisco Examiner</div>
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image image="550" img_size="medium" qode_css_animation=""][vc_column_text]
+<div class="dark-grey scala title-text">Better Business Bureau 40+ Years</div>
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image image="549" img_size="medium" qode_css_animation=""][vc_column_text]
+<div class="dark-grey scala title-text">San Francisco SF Gate / Sf Chronicle 2009 Top 5 Baylist</div>
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/4"][vc_single_image image="553" img_size="medium" qode_css_animation=""][vc_column_text]
+<p class="dark-grey scala title-text" style="text-align: center;">Master Elite</p>
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image image="554" img_size="medium" qode_css_animation=""][vc_column_text]
+<div class="dark-grey scala title-text">National Roofing Contractors Association</div>
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image image="555" img_size="medium" qode_css_animation=""][vc_column_text]
+<div class="dark-grey scala title-text">OSHA Click Safety</div>
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image image="557" img_size="medium" qode_css_animation=""][vc_column_text]
+<div class="dark-grey scala title-text">Value Star</div>
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/4"][vc_single_image image="558" img_size="medium" qode_css_animation=""][vc_column_text]
+<p class="dark-grey scala title-text" style="text-align: center;">ANG Best Painting Contractor</p>
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image image="556" img_size="medium" qode_css_animation=""][vc_column_text]
+<div class="dark-grey scala title-text">Best Roofer San Francisco Examiner</div>
+[/vc_column_text][/vc_column][vc_column width="1/4"][/vc_column][vc_column width="1/4"][/vc_column][/vc_row]

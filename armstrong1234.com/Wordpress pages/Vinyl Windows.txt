@@ -1,0 +1,51 @@
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/2"][vc_empty_space height="55px"][vc_column_text]
+<h1 style="padding-left: 30px;">VINYL WINDOWS</h1>
+[/vc_column_text][vc_empty_space height="20px"][/vc_column][vc_column width="1/2"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="185" img_size="130x130" onclick="custom_link" qode_css_animation="" link="http://armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="992" img_size="medium" onclick="custom_link" qode_css_animation="" link="http://www.armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-12"][qode_carousel carousel="promos"][/vc_column_inner][/vc_row_inner][vc_empty_space height="30px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_single_image image="925" img_size="full" alignment="center" qode_css_animation=""][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/2"][vc_empty_space height="20px"][vc_column_text]
+<h2>VINYL WINDOWS</h2>
+[/vc_column_text][vc_column_text css=".vc_custom_1460503652393{padding-left: 8px !important;}" el_class="armstrongParagraph"]
+<p style="text-align: left;">For over 50 years Armstrong has been installing windows in the Bay Area. During that time we have installed windows from America's top manufacturers. Now Armstrong introduces the Armstrong Select Window &amp; Patio Door System. This new Armstrong system incorporates all the best features from other products, but was specifically selected to meet Armstrong's specifications as well as the recommendations of our customers.</p>
+The result was the Armstrong Select Window &amp; Patio Door System. Not only are the windows beautiful, but they are one of the most feature rich vinyl windows available at any price. And unlike lesser models on the market, that offer only white or tan frames, Armstrong offers designer colors, making coordination with your existing home colors a snap.
+
+Armstrong's Select Windows include all or some of the following features. Ask your field representative about the Armstrong Select Window features Armstrong recommends for your home.
+
+Neat or Sun Clean™ Easy Cleaning Glass for easier cleaning
+High Performance Spectrally Selective Glass
+Limited Lifetime Manufacture’s Warranty (see specific warranty for details)
+Multi chambered fusion welded and sealed frame technology
+Aller-Guard Antipollution / Anti Allergy weather-stripping
+Super Spacer for additional energy efficiency
+Double locks for added security
+Heavy Duty Marine Brass rollers for smoother operation
+Double strength glass as in commercially rated windows[/vc_column_text][/vc_column][vc_column width="1/2"][vc_empty_space height="20px"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner][vc_column_text el_class="armstrongParagraph"]
+<div id="scroll-content">
+<div id="page-content">
+<div id="main-content">
+<div class="pg-300-bold title-text-color title-text">
+<h2>ALLER-GUARD</h2>
+</div>
+<div class="scala body-text">
+
+Aller-Guard forms a resistant seal that helps to reduce outdoor dust and dirt particles from entering doors and windows. It's patented and also tested to resist mold and mildew. Reducing the infiltration of these allergens and pollutants provides for a cleaner, healthier and more comfortable indoor environment. Aller-Guard weatherstripping resists allergy-aggravating pollen, fungi, mold, dust, dirt and bacteria.
+
+</div>
+<div class="pg-300-semi intro-link body-text"></div>
+<div class="pg-300-bold title-text-color title-text">
+<h2>SELF-CLEANING GLASS</h2>
+</div>
+<div class="scala body-text">
+
+In a photo catalytic process, ultraviolet (UV) light from the sun energizes the Easy Cleaning glass to help slowly break down and loosen dirt. Since UV light is abundant even on cloudy days or in shaded areas, this process works non-stop throughout the day.
+
+The coating also has a hydrophilic property that makes water droplets spread out, or sheet, across the surface of the glass. When rain or a light spray from a garden house hits the window, the water carries away the loosened dirt. This sheeting action, which works throughout the day and overnight, helps the window dry quickly with minimal spotting or streaking.
+
+</div>
+<div class="pg-300-semi intro-link body-text"> [action_box]</div>
+</div>
+<div id="content-full"></div>
+<div id="info"></div>
+</div>
+</div>
+<div></div>
+<div id="estimateForm"></div>
+<div id="footer"></div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][/vc_column][/vc_row]

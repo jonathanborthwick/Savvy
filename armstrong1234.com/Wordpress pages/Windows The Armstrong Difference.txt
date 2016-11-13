@@ -1,0 +1,57 @@
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/2"][vc_empty_space height="54px"][vc_column_text]
+<div id="header-banner" class="pg-300-light">
+<div class="banner-text header-text-color header-text">
+<h1><span style="color: #74a5c6;">ARMSTRONG SELECT WINDOWS: THE DIFFERENCE IS CLEAR.</span></h1>
+</div>
+</div>
+<div id="page-content"></div>
+[/vc_column_text][vc_empty_space height="40px"][/vc_column][vc_column width="1/2"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="185" img_size="130x130" onclick="custom_link" qode_css_animation="" link="http://armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="673" img_size="medium" onclick="custom_link" qode_css_animation="" link="http://www.armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-12"][qode_carousel carousel="promos"][/vc_column_inner][/vc_row_inner][vc_empty_space height="30px"][/vc_column][vc_column][vc_empty_space][vc_single_image image="925" img_size="full" alignment="center" qode_css_animation=""][vc_empty_space][/vc_column][vc_column width="1/2"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner][vc_column_text el_class="armstrongParagraph"]
+<div id="header-banner" class="pg-300-light">
+<div class="banner-text header-text-color header-text">
+
+Introducing the Armstrong Select Window &amp; Patio Door System – specially designed to meet our tough standards and the recommendations of our customers.
+
+Looking for windows? Look to Armstrong. We’ve been installing windows in the Bay Area, including San Jose, San Francisco, Oakland, Fremont, Santa Rosa and Sunnyvale, for more than 50 years. And now we’re offering our exclusive Armstrong Select Windows, one of the most beautiful, feature-rich windows available at any price. They’re also available in designer colors, easily coordinating with your home’s existing colors.
+
+</div>
+<p style="text-align: center;"><a href="http://www.armstrong1234.com/windows-gallery/" rel="attachment wp-att-846"><img class="aligncenter wp-image-846" src="http://www.armstrong1234.com/wp-content/uploads/2016/01/window_product_page_image-1024x682.jpg" alt="window_product_page_image" width="599" height="399" /></a></p>
+<p style="text-align: center;"><a href="http://www.armstrong1234.com/windows-gallery/">View the Windows Gallery</a></p>
+
+</div>
+<div id="page-content">
+<div id="main-content">
+<div class="scala body-text">
+
+Want features? Armstrong Select Windows include many unique features designed for your home.
+
+Designer colors – huge choice of styles - top manufacturers and quality installation – Armstrong Windows offers it all! All that – plus over 50 years of experience in window replacement has made us the Bay Area leader!
+
+&nbsp;
+
+</div>
+</div>
+</div>
+[/vc_column_text][vc_column_text css=".vc_custom_1454105137224{padding-left: 8px !important;}" el_class="armstrongLink"]
+<p style="text-align: right;"><span style="color: #ffb33f;"><a href="http://armstrong1234.com/contact/">CALL FOR YOUR FREE WINDOW ESTIMATE TODAY!</a></span></p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="3/4"][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/2"][vc_column_text el_class="armstrongParagraph"]
+<div class="pg-300-bold title-text-color title-text">
+<h2><span style="color: #74a5c6;">INTRODUCING INFINITY® FROM MARVIN – EXCLUSIVELY BY ARMSTRONG!</span></h2>
+&nbsp;
+
+</div>
+<div class="scala body-text">
+
+Want a low-maintenance replacement window with the appearance of a traditional wood window? We’ve got them – <a href="http://www.marvin.com/infinity">Infinity Ultrex Fiberglass</a> windows from the experts at Marvin Windows and Doors!
+
+All Infinity® from Marvin windows are made from Ultrex – a fiberglass material so tough, you’ll never have to worry about replacement windows again! And all Infinity® from Marvin windows are essentially maintenance free.
+
+You’ll also find multiple colors and Everwood® finishes available in these energy-efficient windows. Plus, you’ll never have to paint or stain your windows again!
+
+[action_box]
+
+&nbsp;
+
+</div>
+[/vc_column_text][vc_video link="https://www.youtube.com/watch?v=tZ4mzHni290"][vc_column_text css=".vc_custom_1454105015232{padding-left: 8px !important;}" el_class="armstrongLink"]
+<p style="text-align: right;"><a href="https://www.youtube.com/watch?v=tZ4mzHni290" target="_blank">WANT TO SEE A COMPLETE LISTING OF FEATURES AVAILABLE IN INFINITY® FROM MARVIN - EXCLUSIVELY BY ARMSTRONG? JUST CLICK HERE!</a></p>
+[/vc_column_text][/vc_column][/vc_row]

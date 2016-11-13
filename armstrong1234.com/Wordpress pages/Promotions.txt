@@ -1,0 +1,27 @@
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_column_text]
+<h2>Promotions</h2>
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/2"][vc_single_image image="496" img_size="large" qode_css_animation=""][/vc_column][vc_column width="1/2"][vc_column_text el_class="armstrongParagraph"]
+<div class="dark-grey scala body-text">
+<div class="dark-grey scala body-text">FINANCING FOR YOUR PROJECT TODAY</div>
+<div class="scala body-text">
+
+Armstrong Financing
+
+Take Advantage of our 180-Day Same-As-Cash Program
+It’s easy to apply and get a quick decision in minutes.
+
+12 Months NO INTEREST!
+- Same as Cash
+- 10 Min. Phone Application
+- No Paperwork
+- Up to $45,000 Available
+
+Enerbank through GAF/ELK’s Smart Money Program can provide “Same as Cash (SAC)” loans that have no interest if paid within the SAC period.
+
+There are no closing costs, no paperwork and only a 10 minute phone application is required to receive a credit decision. Funds of up to $45,000 are available for your Armstrong home improvement project.
+
+Other financing options also available.
+
+</div>
+</div>
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][/vc_column][/vc_row]

@@ -1,0 +1,17 @@
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/2"][vc_empty_space height="50px"][vc_column_text]
+<h2>RESIDENTIAL PAINTING IN THE BAY AREA</h2>
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="185" img_size="130x130" onclick="custom_link" qode_css_animation="" link="http://armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="992" img_size="medium" onclick="custom_link" qode_css_animation="" link="http://www.armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-12"][qode_carousel carousel="promos"][/vc_column_inner][/vc_row_inner][vc_empty_space height="30px"][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_single_image image="969" img_size="full" alignment="center" qode_css_animation=""][vc_empty_space height="20px"][vc_column_text el_class="armstrongParagraph"]Over the past 50 years, Armstrong has painted more than 30,000 homes – an unmatched record of protection in the Bay Area, including San Jose, San Francisco, Oakland, Fremont, Santa Rosa and Sunnyvale.
+
+Our experience and unwavering commitment to quality work have earned us a reputation for quality residential painting. But instead of a cookie-cutter approach, we certify each component of our<a href="http://www.armstrong1234.com/painting-process/"> painting process</a>. From meticulous preparation to our unsurpassed attention to detail, our Certified Painting System offers your home the ultimate in protection – along with one of the most comprehensive warranties available.
+
+[action_box][/vc_column_text][vc_empty_space height="20px"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner][vc_column_text el_class="armstrongParagraph"]
+<div class="pg-300-bold title-text-color title-text">
+<h2>NEED HELP CHOOSING YOUR COLORS?</h2>
+</div>
+<div class="scala body-text">
+<p style="text-align: justify;">Paint color is an expression of who you are, letting your style and personality shine. With interior painting, it's an opportunity to transform a home from ordinary to extraordinary without spending a lot of money on remodeling.</p>
+<p style="text-align: justify;">If you need help choosing colors, Armstrong is ready to help. We offer a FREE Color Consultation with national award-winning color consultant Bob Buckter.</p>
+<p style="text-align: justify;">Put our 50 years of knowledge and experience in residential painting to work: call for an estimate and free color consultation now!</p>
+
+</div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_empty_space height="20px"][/vc_column][/vc_row]

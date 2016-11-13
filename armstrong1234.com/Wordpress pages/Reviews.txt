@@ -1,0 +1,67 @@
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_column_text]
+<h2>Reviews</h2>
+We would love to hear from you about your experience with our company. Please email us at <a href="mailto:info@armstrong1234.com"><u>info@armstrong1234.com</u></a> with your feedback and review.[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_column_text]
+
+<hr />
+<p class="p1"><strong><span class="s1">A very professional job, painters were always on time and hard working. it was a pleasure doing business with you.</span></strong></p>
+<p class="p1"><span class="s1">Marilyn Douglas - Palo Alto, CA</span></p>
+
+
+<hr />
+<p class="p1"><strong><span class="s1">I appreciate the courtesy and promptness of your workers. The Foreman was also very helpful. Good Job!</span></strong></p>
+<p class="p1"><span class="s1">Linda and Lee Anderson - Martinez, CA</span></p>
+
+
+<hr />
+<p class="p1"><strong><span class="s1">Satisfied does not describe my satisfaction, neither does excellent. This is A+.</span></strong></p>
+<p class="p1"><span class="s1">Brian</span></p>
+
+
+<hr />
+<p class="p1"><strong><span class="s1">Everybody was very polite and prompt in their responses; Also questions were answered without hand-offs, even if someone else had the actual answer. Definitely, put the customer first.</span></strong></p>
+<p class="p1"><span class="s1">Roxy Jones - Orinda, CA</span></p>
+
+
+<hr />
+<p class="p1"><strong><span class="s1">These men are true pros, very hard workers - did a great job! Also, they were very nice to our dog, "Jack".</span></strong></p>
+<p class="p1"><span class="s1">Bob Powers - San Francisco, CA</span></p>
+
+
+<hr />
+<p class="p1"><strong><span class="s1">Was the work completed as promised, on time, and with no expected problems? Yes, one person even came back in the evening to make sure everything was ok.</span></strong></p>
+<p class="p1"><span class="s1">Mr. and Mrs. George Taylor - San Jose, CA</span></p>
+
+
+<hr />
+<p class="p1"><strong><span class="s1">I have been impressed with the customer service and the efficiency of communications. Both of the people I dealt with in the office and on-site were careful and did not damage anything, were extremely peasant to deal with, and cared for my concerns and my passions. I will be very happy to give stellar references!</span></strong></p>
+<p class="p1"><span class="s1">Alessandra Gallo -San Rafael, CA</span></p>
+
+
+<hr />
+<p class="p1"><strong><span class="s1">The house looks amazing! Dean was great to work with and responsive to all of my questions!</span></strong></p>
+<p class="p1"><span class="s1">Jean Rosa - San Jose, CA</span></p>
+
+
+<hr />
+<p class="p1"><strong><span class="s1">These guys Peter and Thomas did an extraordinary job, we are pleased!</span></strong></p>
+<p class="p1"><span class="s1">Sherry Shacater - Oakland, CA</span></p>
+
+
+<hr />
+<p class="p1"><strong><span class="s1">I couldn't be more pleased with the quality of the work, the attention to detail, the always well kept work place, and the friendliness and hard work of Modesto and his crew. He turned a nice house in to a showcase.</span></strong></p>
+<p class="p1"><span class="s1">Steve Sansweet - Petaluma, CA</span></p>
+
+
+<hr />
+<p class="p1"><strong><span class="s1">Thank you so much for the great services you gave me. Also, a couple of nice guys did the work.</span></strong></p>
+<p class="p1"><span class="s1">Carl J. Hill</span></p>
+
+
+<hr />
+<p class="p1"><strong><span class="s1">The painting job was completed and we are satisfied with all of the detailed work. Thank you very much, the house looks great.</span></strong></p>
+<p class="p1"><span class="s1">Mary Heepee - Castro Valley, CA</span></p>
+
+
+<hr />
+
+[/vc_column_text][/vc_column][/vc_row]

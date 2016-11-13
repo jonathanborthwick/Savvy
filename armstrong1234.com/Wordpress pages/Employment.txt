@@ -1,0 +1,37 @@
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/2"][vc_empty_space height="60px"][vc_column_text]
+<h1>INTERESTED IN WORKING WITH US?</h1>
+[/vc_column_text][vc_empty_space height="15px"][vc_column_text]Are you interested in finding employment with Armstrong? See our list of openings and contact us if you think you're the right fit.[/vc_column_text][vc_empty_space height="20px"][/vc_column][vc_column width="1/2"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="185" img_size="130x130" onclick="custom_link" qode_css_animation="" link="http://armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="188" img_size="medium" qode_css_animation=""][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-12"][qode_carousel carousel="promos"][/vc_column_inner][/vc_row_inner][vc_empty_space height="30px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/2"][vc_column_text el_class="armstrongParagraph"]
+<h4 class="pg-300-bold title-text-color title-text">PAINTING</h4>
+<div class="scala body-text">
+
+The #1 painting &amp; roofing company in the Bay Area is seeking paint crews with 5 years experience for year round work. Must have a valid drivers license.
+Paint CREWS only. Preferably Lead Certified...
+
+</div>
+<h4 class="pg-300-bold title-text-color title-text">ROOFING CREWS</h4>
+Armstrong is currently looking for comp shingle roofing crews. Understanding and knowledge of OSHA standard safety requirement is a must.
+<div class="scala body-text">
+
+Please contact Thomas @ (510) 542-0122
+<a href="mailto:contact@armstrong1234.com">contact@armstrong1234.com</a> to e-mail resumes.
+(510) 655-1972 to fax resumes.
+
+</div>
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text css=".vc_custom_1460502950006{padding-left: 8px !important;}" el_class="armstrongParagraph"]
+<div class="pg-300-bold title-text-color title-text">
+<h2>SALES</h2>
+</div>
+<div class="scala body-text">
+
+Attention In-Home Sales Professionals The Bay Area’s most well known Home Improvement Company is searching for several highly motivated people with a proven track record for in-home sales in interior and exterior paint/coating. We will provide you with pre-qualified set appointments daily.
+
+Amazing earning potential.
+Unlimited income potential for the right person.
+Average existing rep earns a six figure income!
+
+Please contact Thomas @ (510) 542-0122
+<a href="mailto:contact@armstrong1234.com">contact@armstrong1234.com</a> to e-mail resumes.
+(510) 655-1972 to fax resumes.
+
+</div>
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space][/vc_column][/vc_row]

@@ -1,0 +1,27 @@
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="40px"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column width="1/2"][vc_empty_space height="40px"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner][vc_column_text]
+<div class="scala body-text">
+<h2>EXTERIOR OR INTERIOR -
+OUR PAINTING IS SUPERIOR.</h2>
+</div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/2"][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="185" img_size="130x130" onclick="custom_link" qode_css_animation="" link="http://armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-6"][vc_single_image image="992" img_size="medium" onclick="custom_link" qode_css_animation="" link="http://www.armstrong1234.com/contact/"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-xs-12"][qode_carousel carousel="promos"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_empty_space height="20px"][vc_single_image image="919" img_size="full" alignment="center" qode_css_animation=""][vc_empty_space height="20px"][vc_column_text el_class="armstrongParagraph"]
+<div class="scala body-text">
+
+In the last 50 years, we’ve performed coating and painting services for more than 20,000 homes – an unmatched record of protection in the Bay Area, including San Jose, San Francisco, Oakland, Fremont, Santa Rosa and Sunnyvale.
+<div>Our experience and unwavering commitment to quality work have earned us a reputation for quality coating and painting. But instead of a cookie-cutter approach, we specify each component of our painting process. From meticulous preparation to our unsurpassed attention to detail, our Armstrong WeatherGuard System offers your home the ultimate in protection – along with one of the most comprehensive warranties available.</div>
+<div>[action_box]</div>
+</div>
+<p style="text-align: center;"><a href="http://www.armstrong1234.com/painting-gallery-2/" rel="attachment wp-att-844"><img class="aligncenter wp-image-844" src="http://www.armstrong1234.com/wp-content/uploads/2016/01/painting_product_page_image-1024x682.jpg" alt="painting_product_page_image" width="599" height="399" /></a></p>
+<p style="text-align: center;"><a href="http://www.armstrong1234.com/painting-gallery-2/">View the Painting Gallery</a></p>
+[/vc_column_text][vc_empty_space height="20px"][vc_column_text]
+<h3>NEED HELP CHOOSING YOUR COLORS?</h3>
+[/vc_column_text][vc_column_text el_class="armstrongParagraph"]Paint color is an expression of who you are, letting your style and personality shine. With interior painting, it’s an opportunity to transform a home from ordinary to extraordinary without spending a lot of money on remodeling.
+
+If you need help choosing colors, Armstrong is ready to help. We offer a FREE Color Consultation with national award-winning color consultant Bob Buckter.
+
+Put our 50 years of knowledge and experience to work: call for an estimate and free color consultation now![/vc_column_text][vc_empty_space height="20px"][vc_column_text]
+<h3>INDUSTRIAL-STRENGTH PAINTING.</h3>
+[/vc_column_text][vc_column_text el_class="armstrongParagraph"]For 50 years we’ve been painting businesses throughout the Bay Area. Instead of using standard paints, Armstrong uses our exclusive AWS Specified Formulation* on commercial paint projects. Coupled with our thorough preparation, Titanium-Acrylic paints and our unmatched attention to detail, we provide your business with unparalleled protection and one of the most comprehensive warranties available.
+
+To view our interior and exterior painting process, please <a href="http://www.armstrong1234.com/painting/process/">click here</a>.
+
+*AWS: The Armstrong WeatherGuard System is the Application, Warranty and Specification of materials by Armstrong.[/vc_column_text][vc_empty_space height="40px"][/vc_column][/vc_row]
