@@ -1,0 +1,2 @@
+In page editor, the default page editing mode is a proprietary theme visual editor. You need to click on classic mode to get back to tehy Visual or text mode in a default wordpress instalation.
+The editor is calling itself "Backend editor"

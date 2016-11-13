@@ -1,0 +1,14 @@
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_column_text]
+<h2>ABOUT ARMSTRONG: KEEPING QUALITY &amp; TECHNOLOGY AT THE FOREFRONT</h2>
+[/vc_column_text][vc_empty_space height="20px"][vc_column_text el_class="armstrongParagraph"]
+<p style="text-align: justify;">Since its inception in California in 1966 Armstrong has been committed to the improvement, beautification, and preservation of Bay Area homes and commercial and institutional buildings. This has been achieved employing an elsewhere vanishing work ethic, coupled with superior technical knowledge using only the highest quality materials and modern equipment. Perhaps most significant of all, Armstrong has maintained its position of leadership by adhering tenaciously to one of the most fundamental principles of all business transactions: listening to and pleasing our customers.</p>
+[/vc_column_text][vc_empty_space height="10px"][vc_column_text el_class="armstrongParagraph"]
+<p style="text-align: center;"><img class="aligncenter wp-image-841" src="http://www.armstrong1234.com/wp-content/uploads/2016/01/about_page_image-1024x682.jpg" alt="about_page_image" width="600" height="399" /></p>
+[/vc_column_text][vc_empty_space height="10px"][vc_column_text el_class="armstrongParagraph"]
+<p style="text-align: justify;">Whether it's <a href="http://www.armstrong1234.com/painting/">painting</a>, <a href="http://www.armstrong1234.com/roofing/">roofing</a>, <a href="http://www.armstrong1234.com/windows/">windows</a> or <a href="http://www.armstrong1234.com/doors/">doors</a>, you have the assurance and peace of mind knowing that your installation will be covered by one of the best warranties in America. Armstrong painting jobs carry a warranty of up to fifteen years depending on surface materials. Our replacement windows and doors carry up to a limited lifetime manufacturer's warranty. Equally generous warranties come with our roofing work. Armstrong has been in business in California for over fifty years and will be there, ready to help, if and when you need us.</p>
+[/vc_column_text][vc_empty_space height="10px"][vc_column_text el_class="armstrongParagraph"]
+<p style="text-align: justify;">Sincerely,</p>
+<p style="text-align: justify;"><strong>Mitchell Fine
+</strong><strong>General Manager</strong></p>
+<p style="text-align: justify;">[action_box]</p>
+[/vc_column_text][vc_empty_space height="30px"][/vc_column][/vc_row]
