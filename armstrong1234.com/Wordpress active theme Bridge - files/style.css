@@ -1,0 +1,133 @@
+/*
+Theme Name: Bridge
+Theme URI: http://demo.qodeinteractive.com/bridge/
+Description: Bridge Theme
+Tags: creative, portfolio, multi-purpose, clean, retina, responsive, parallax, mega menu, blog, agency, business, fullscreen, modern, background video, ajax
+Author: Qode Interactive
+Author URI: http://www.qodethemes.com/
+Version: 7.9
+License: GNU General Public License
+License URI: licence/GPL.txt
+
+CSS changes can be made in files in the /css/ folder. This is a placeholder file required by WordPress, so do not delete it.
+
+*/
+
+p {
+    margin-bottom: 10px !important;
+}
+
+a:hover, p a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .q_tabs .tabs-nav li a:hover, .q_icon_with_title .icon_with_title_link:hover, .blog_holder article .post_description a:hover, .blog_holder.masonry article .post_info a:hover, .portfolio_social_holder a:hover, .latest_post_inner .post_infos a:hover {
+
+	color:#1e73be !important;
+
+}
+
+.mobilephone {
+	display:none;
+	margin: 5px 0px 15px 0px;
+}
+
+.mobilephone a {
+	font-size:24px;
+}
+
+@media screen and (max-width: 1024px) {
+	.mobilephone {
+		display:block;
+	}
+}
+
+
+
+.service-info-button {
+    margin: 20px auto;
+    padding: 10px 5px;
+    width: 300px;
+    border-radius: 6px;
+    color: #ffffff;
+    font-size: 1.3em;
+    text-align: center;
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #3b7398 0%, #3b7398 100%) repeat scroll 0 0;
+}
+
+div.content div.service-info-button a,
+div.content div.service-info-button a b,
+div.content div.service-info-button a:hover {
+    color:#ffffff !important;
+}
+
+/* GOOGLE FORMS */
+
+.ss-date input,.ss-datetime input,.ss-time input{font:inherit}
+.ss-hidden-button{border:none;display:none;height:0;padding:0;width:0}
+.ss-picker-button-container{background-color:#f5f5f5;background-image:-webkit-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:-moz-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:-ms-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:-o-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:linear-gradient(top,#f5f5f5,#f1f1f1);border:1px solid #dcdcdc;height:32px;margin:-1px -1px -1px 1ex}
+.ss-picker-container{left:2ex;position:absolute;z-index:2}
+.ss-calendar-button{padding:5px 4px 4px 4px;z-index:1}
+.ss-datetime-box{border:1px solid #dcdcdc;margin-right:2em;min-height:32px;padding-left:3px;vertical-align:middle}
+.ss-datetime-box select{margin:4px 3px;vertical-align:middle}
+.ss-datetime-box-spacer{height:32px;vertical-align:middle}
+.ss-grid{overflow-x:auto}
+.ss-gridnumbers{text-align:center;border-bottom:1px solid #d3d8d3}
+.ss-gridnumber{display:block;padding:0.5em 0 .5em}
+.ss-gridrow{text-align:center;color:#666;border-bottom:1px solid #d3d8d3;padding:0}
+.ss-grid-button-label{display:block}
+.ss-grid-button-wrapper{padding:.5em .25em}
+.ss-gridrow-leftlabel{min-width:100px;max-width:200px;padding-left:15px;text-align:left}
+.ss-grideditor-columns input{line-height:150%}
+.ss-grideditor-editor .magic-list span.ss-header{font-weight:bold;padding-right:1em}
+.ss-grid-separator{border:1px solid #e5e5e5}
+.ss-scale{overflow-x:auto}
+.ss-scalenumbers{text-align:center}
+.ss-scalenumber{display:block;padding:0.5em 0 .5em}
+.ss-scalerow{text-align:center;color:#666;border:1px solid #d3d8d3;border-left:0;border-right:0;padding:.5em .25em}
+.d.ss-leftlabel{text-align:right;padding-left:0}
+.d.ss-rightlabel{text-align:left;padding-right:0}
+.ss-form-entry{margin-bottom:1.5em}
+.ss-form-entry input{vertical-align:middle;margin-left:0;margin-top:0;}
+.ss-form-entry select{max-width:100%}
+.ss-q-title{display:block;font-weight:bold}
+.2.ss-q-title{margin-top:.83em;margin-bottom:.83em}
+.ss-q-help{display:block}
+.ss-q-help{margin-top:.25rem}
+.ss-secondary-text{color:#666}
+.ss-textarea{max-width:99%;background-color: #ffffff;}
+.ss-q-long{resize:vertical;}
+.ss-choices{list-style:none;padding:0}
+.ss-choices{margin:.75rem 0 0}
+.content-wrapper ul li.ss-choice-item::before {content:""}
+.ss-choice-item{margin:0;line-height:1.3em;padding-bottom:.5em}
+.ss-required-asterisk{color:#c43b1d}
+.ss-section-title{margin:2rem 0 0}
+.ss-section-description{margin-top:0.5rem}
+.ss-page-title{margin:0;padding:0}
+.ss-formwidget-container:focus{outline:none}
+.ss-item{margin:12px 0}
+.ss-q-short,.ss-q-long{border:1px solid #bbb;padding:0.4em 0.6em;width:95%;background-color: #ffffff;}
+.ss-image,.ss-video,.ss-embeddable-object-container{max-width:100%;position:relative}
+.ss-video{border:none}
+.ss-video-badge{left:0;position:absolute}
+.ss-video:focus,.ss-image:focus{outline:none}
+.ss-edit-link,.ss-edit-link:active,.ss-edit-link:visited,.ss-edit-link:hover,.ss-edit-link:link{background:url(//www.gstatic.com/docs/spreadsheets/forms/edit_dark.png) 7px 8px no-repeat #1f1f1d;border:1px solid #fff;color:#fff;float:right;font:normal 13px arial,sans-serif;font-weight:bold;padding:7px 7px 7px 27px;position:absolute;text-decoration:none;top:7px;right:7px}
+.ss-edit-link-analytics{position:relative}
+.ss-terms{line-height:20px}
+.ss-terms{text-align:right}
+.ss-submit-message{font:normal 13px arial,sans-serif;margin-bottom:20px}
+#ss-submit {
+background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #000000 0%, #000000 100%) repeat scroll 0 0;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    color: #ffffff;
+    cursor: pointer;
+    float: none;
+    font-size: 1.7em;
+    font-weight: normal;
+    height: 40px;
+    line-height: 1em;
+    margin: 0;
+    width: 100%;
+}
+.error,.required,.errorbox-bad{border:2px solid}
+.required-message,.error-message{color:#c43b1d;display:none;font-size:13px}
+.required~.required-message,.error~.error-message{display:block}
+.l.ss-choices.required{margin-left:-3px;margin-top:-3px;padding-left:4px;padding-top:4px}
